@@ -1,3 +1,5 @@
 .pure-g {
-    text-align:center;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
 }
